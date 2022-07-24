@@ -36,6 +36,7 @@ main h1 {
 }
 
 button {
+  font-family: "IBM Plex Mono", monospace;
   width: 120px;
   padding: 8px 20px;
   margin-top: 16px;
@@ -56,6 +57,7 @@ button:hover {
 }
 
 a {
+  font-family: "IBM Plex Mono", monospace;
   text-decoration: none;
   color: white;
   font-weight: bold;
