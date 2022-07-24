@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "IBM Plex Mono", monospace;
+  background-color: #B382BA;
+  height: 70vh;
+  display: grid;
+  align-content: center;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+main h1 {
+  font-size: 40px;
+  color: whitesmoke;  
+}
+
+#horas-projeto{
+  width: 140px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border: none;
+  text-align:center;  
+}
+
+#valor-hora{
+  width: 140px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border: none;
+  text-align:center;
+}
+
+button {
+  width: 120px;
+  padding: 8px 20px;
+  margin-top: 16px;
+  background-color: #f7f7f7;
+  border: none;
+  border-radius: 8px;
+  transition: background-color 0.4s;
+  outline: none;
+  color: #020202;
+  justify-content: center;
+  align-items: center; 
+  border-radius: 8px;
+}
+
+button:hover {
+  background-color: #ecddf3;
+  color: #3f3d56;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  padding-top: 10px;
+}
+
+a:hover{
+  color: #3f3d56;
+}
+
+
+
+
+
+
