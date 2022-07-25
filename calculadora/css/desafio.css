@@ -54,6 +54,7 @@ button {
 button:hover {
   background-color: #ecddf3;
   color: #3f3d56;
+  
 }
 
 a {
@@ -69,7 +70,20 @@ a:hover{
   color: #3f3d56;
 }
 
+.secao__rodape__valor span {
+  color: #000000;
+  position: absolute;
+  top: 42%;
+}
 
+
+.secao__rodape__legenda {
+  height: 5vh;
+  display: grid;
+  align-content: center;
+  max-width: 60%;
+  margin: 0 auto;
+}
 
 
 
